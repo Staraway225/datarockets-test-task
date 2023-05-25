@@ -3,3 +3,6 @@ require: rubocop-rails
 Style/Documentation:
   Exclude:
     - db/migrate/*
+    - app/models/*
+    - app/controllers/*
+    - app/mailers/*
