@@ -69,6 +69,7 @@ group :development do
   # gem "spring"
 
   gem 'pry'
+  gem 'rspec-activemodel-mocks'
   gem 'rspec-rails'
   gem 'rubocop'
   gem 'rubocop-rails'
