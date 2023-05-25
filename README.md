@@ -21,6 +21,7 @@ Solution for Datarockets [test task](https://github.com/datarockets/career/blob/
      ```bash
      docker compose up
      ```
+   ##### OR
    - Start terminal session from the Docker container
      ```bash
      docker compose run -it --rm --service-ports web bash
